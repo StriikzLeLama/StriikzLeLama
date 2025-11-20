@@ -58,11 +58,8 @@ Je construis **tout un univers cohérent**, moderne et technologique.
 
 ---
 
-# 🐍 **Snake – Contributions Animées**
-Ajoute ce code après avoir activé le workflow ci-dessous :
+# 🐍 **Snake**
 
-```md
 <p align="center">
   <img src="https://raw.githubusercontent.com/StriikzLeLama/StriikzLeLama/output/github-contribution-grid-snake.svg" />
 </p>
-
