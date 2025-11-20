@@ -1,16 +1,8 @@
-<!-- ================================================================== -->
-<!--                LAMA WORLDS — ULTRA FUTURISTIC PROFILE              -->
-<!-- ================================================================== -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00EFFF&size=28&center=true&vCenter=true&width=900&lines=👋+Bienvenue+sur+la+Zone+Lama+Worlds;Créateur+de+Projets+Futuristes;Dev+Fullstack+%7C+WPF+%7C+Cloudflare;Self-Host+%7C+Proxmox+%7C+Docker;Star+Citizen+%7C+3D+Viewer+%7C+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00EFFF&size=28&center=true&vCenter=true&width=900&lines=👋+Welcome+to+the+Lama+Worlds+Zone;Creator+of+Futuristic+Projects;Fullstack+Dev+%7C+WPF+%7C+Cloudflare;Self--Host+%7C+Proxmox+%7C+Docker;Star+Citizen+%7C+3D+Viewer+%7C+Tools" />
 </p>
 
 ---
-
-<!-- ======================= -->
-<!--   HOLOGRAPHIC BANNER    -->
-<!-- ======================= -->
 
 <p align="center">
   <img src="https://i.ibb.co/3WWLb03/lama-neon-banner.gif" width="100%" alt="Lama Worlds Futuristic Banner">
@@ -18,17 +10,17 @@
 
 ---
 
-# 🛰️ **Moi c’est Lama**
-Créateur de **Lama Worlds** — un écosystème complet composé de :
+# 🛰️ **I am Lama**
+Creator of **Lama Worlds** — a complete ecosystem composed of:
 
-- 🌌 Sites web futuristes neon/glassmorphism  
-- 🛰️ Viewer 3D Star Citizen  
-- 🛠️ Apps Windows (WPF) : LamaWorldsTools  
-- ☁️ Self-host : Proxmox, Docker, Nginx Proxy Manager  
-- 🧠 Apps intelligentes (Assistant santé, modules JS, Workers…)  
-- 🔧 Reverse proxies, API, dashboards, CT Proxmox…  
+- 🌌 Futuristic neon/glassmorphism websites  
+- 🛰️ Star Citizen 3D Viewer  
+- 🛠️ Windows Apps (WPF): LamaWorldsTools  
+- ☁️ Self-host Infrastructure: Proxmox, Docker, Nginx Proxy Manager  
+- 🧠 Smart Apps (Health Assistant, JS Modules, Workers…)  
+- 🔧 Reverse Proxies, APIs, Dashboards, Proxmox CTs…  
 
-Je construis **tout un univers cohérent**, moderne et technologique.
+I build **a coherent, modern, and technological universe**.
 
 ---
 
@@ -39,7 +31,7 @@ Je construis **tout un univers cohérent**, moderne et technologique.
 
 ---
 
-# 🌌 **Stats GitHub**
+# 🌌 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StriikzLeLama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -58,7 +50,7 @@ Je construis **tout un univers cohérent**, moderne et technologique.
 
 ---
 
-# 🐍 **Snake**
+# 🐍 **Snake - Animated Contributions**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/StriikzLeLama/StriikzLeLama/output/github-contribution-grid-snake.svg" />
