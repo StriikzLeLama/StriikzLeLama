@@ -50,7 +50,7 @@ I build **a coherent, modern, and technological universe**.
 
 ---
 
-# 🐍 **Snake - Animated Contributions**
+# 🐍 **Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/StriikzLeLama/StriikzLeLama/output/github-contribution-grid-snake.svg" />
