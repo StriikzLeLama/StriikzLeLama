@@ -39,7 +39,7 @@ Je construis **tout un univers cohérent**, moderne et technologique.
 
 ---
 
-# 🌌 **Stats GitHub – Mode Futuriste**
+# 🌌 **Stats GitHub**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StriikzLeLama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -51,7 +51,7 @@ Je construis **tout un univers cohérent**, moderne et technologique.
 
 ---
 
-# 🧠 **Activity Graph – Holographic**
+# 🧠 **Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StriikzLeLama&theme=react-dark&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff&hide_border=true" />
 </p>
@@ -65,3 +65,4 @@ Ajoute ce code après avoir activé le workflow ci-dessous :
 <p align="center">
   <img src="https://raw.githubusercontent.com/StriikzLeLama/StriikzLeLama/output/github-contribution-grid-snake.svg" />
 </p>
+
