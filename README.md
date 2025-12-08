@@ -31,18 +31,6 @@ I build **a coherent, modern, and technological universe**.
 
 ---
 
-# 🌌 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StriikzLeLama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriikzLeLama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
----
-
 # 🧠 **Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StriikzLeLama&theme=react-dark&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff&hide_border=true" />
