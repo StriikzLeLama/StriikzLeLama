@@ -13,12 +13,11 @@
 # 🛰️ **I am Lama**
 Creator of **Lama Worlds** — a complete ecosystem composed of:
 
-- 🌌 Futuristic neon/glassmorphism websites  
-- 🛰️ Star Citizen 3D Viewer  
-- 🛠️ Windows Apps (WPF): LamaWorldsTools  
-- ☁️ Self-host Infrastructure: Proxmox, Docker, Nginx Proxy Manager  
-- 🧠 Smart Apps (Health Assistant, JS Modules, Workers…)  
-- 🔧 Reverse Proxies, APIs, Dashboards, Proxmox CTs…  
+-  Futuristic neon/glassmorphism websites    
+-  Windows Apps (WPF): LamaWorldsTools  
+-  Self-host Infrastructure: Proxmox, Docker, Nginx Proxy Manager  
+-  Smart Apps (Health Assistant, JS Modules, Workers…)  
+-  Reverse Proxies, APIs, Dashboards, Proxmox CTs…  
 
 I build **a coherent, modern, and technological universe**.
 
