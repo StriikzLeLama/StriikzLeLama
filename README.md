@@ -10,7 +10,7 @@
 
 ---
 
-# 🛰️ **I am Lama**
+#  **I am Lama**
 Creator of **Lama Worlds** — a complete ecosystem composed of:
 
 -  Futuristic neon/glassmorphism websites    
@@ -23,21 +23,21 @@ I build **a coherent, modern, and technological universe**.
 
 ---
 
-# ⚡ **Technologies**
+#  **Technologies**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,cs,docker,cloudflare,linux,visualstudio,vscode,github,git,threejs,windows,regex" />
 </p>
 
 ---
 
-# 🧠 **Activity Graph**
+#  **Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StriikzLeLama&theme=react-dark&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 **Snake**
+#  **Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/StriikzLeLama/StriikzLeLama/output/github-contribution-grid-snake.svg" />
