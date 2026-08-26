@@ -36,15 +36,11 @@ Stack: Tauri 2 · React · FastAPI · Python
 Desktop app to manage OBS Studio plugins.  
 Stack: Tauri 2 · React 19 · Rust
 
-### [WPF Studio (VS Code)](https://github.com/StriikzLeLama/LamaWorlds_Plugin-VS-Code-WPF)
-VS Code extension for WPF — designer, XAML preview, MVVM tools, hot reload.  
-Stack: TypeScript · .NET 8 · VS Code API
-
 ---
 
 ## Tech
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,rust,html,css,cs,docker,cloudflare,linux,windows,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,rust,html,css,docker,cloudflare,linux,windows,github" />
 </p>
 
 Building a lot with **Tauri 2**, **React**, **Rust**, and **Cloudflare** (Workers / D1 / R2), plus Proxmox & Docker for self-host.
