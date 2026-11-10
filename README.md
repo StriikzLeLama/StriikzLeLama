@@ -23,10 +23,7 @@ Most work stays private. Here’s what’s public.
 
 ## Public projects
 
-### [ScreenRaid](https://github.com/StriikzLeLama/LamaWorlds_ScreenRaid)
-Consent-based social prank platform — send temporary overlays (GIF, image, video, sound, text) to friends’ screens.  
-**Live:** [screenraid.app.lama-worlds.com](https://screenraid.app.lama-worlds.com)  
-Stack: React 19 · Tauri 2 · Rust / Axum · Cloudflare Workers + D1 + R2
+
 
 ### [Annotation Studio](https://github.com/StriikzLeLama/LamaWorlds_AnnotationStudio)
 Local YOLO image annotation desktop app (boxes, classes, export COCO/VOC, Vision LLM assist).  
